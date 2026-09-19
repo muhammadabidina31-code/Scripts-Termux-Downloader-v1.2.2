@@ -15,7 +15,6 @@ He designed the structure of this application without the help of a team.
 - npm
 
 ## Install
-    cd Projects_Manager/Application
     npm install , or love at the end with this "--ignore-scripts"
 
 ## Run
